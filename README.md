@@ -1,9 +1,7 @@
 ### Olá, eu sou o Lucas Marini 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-marini/)
-<div>
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-lucas.marini.ti@gmail.com-6633cc?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:lucas.marini.ti@gmail.com" style="max-width: 100%;">
- </div>
+
 
  • Moro na Zona Leste de São Paulo/SP 🏠 <br/>
  • Formado em Sistemas de Informação pela FIAP 📚✔️<br/>
