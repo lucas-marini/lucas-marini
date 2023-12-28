@@ -5,7 +5,7 @@
 
  • Moro na Zona Leste de São Paulo/SP 🏠 <br/>
  • Formado em Sistemas de Informação pela FIAP 📚✔️<br/>
- • Sempre buscando aprender mais sobre Java e suas tecnologias 🖥️👨‍💻<br/>
+ • Sempre buscando aprender mais sobre novas tecnologias 🖥️👨‍💻<br/>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-marini&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
