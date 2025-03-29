@@ -7,7 +7,7 @@
  • Formado em Sistemas de Informação pela FIAP 📚✔️<br/>
  • Apaixonado por dados! 🖥️👨‍💻<br/>
 
- "Dados são o novo petróleo" - Clive Humby <br/
+ "Dados são o novo petróleo" - Clive Humby <br/>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-marini&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
